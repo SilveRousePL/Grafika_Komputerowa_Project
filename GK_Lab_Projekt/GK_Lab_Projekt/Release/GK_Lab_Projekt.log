@@ -1,0 +1,10 @@
+﻿  GK_Lab_Projekt.cpp
+d:\studia\obecne projekty\gk_lab_projekt\gk_lab_projekt\gk_lab_projekt\gk_lab_projekt.cpp(162): warning C4018: '<': signed/unsigned mismatch
+d:\studia\obecne projekty\gk_lab_projekt\gk_lab_projekt\gk_lab_projekt\gk_lab_projekt.cpp(172): warning C4018: '<': signed/unsigned mismatch
+d:\studia\obecne projekty\gk_lab_projekt\gk_lab_projekt\gk_lab_projekt\gk_lab_projekt.cpp(211): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 361 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GK_Lab_Projekt.vcxproj -> D:\Studia\Obecne projekty\GK_Lab_Projekt\GK_Lab_Projekt\Release\GK_Lab_Projekt.exe
